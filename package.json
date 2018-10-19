@@ -1,0 +1,29 @@
+{
+  "name": "paramrule",
+  "version": "1.0.0",
+  "description": "http param validator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sunzhiguang/paramRule.git"
+  },
+  "keywords": [
+    "http",
+    "request",
+    "param",
+    "validator",
+    "query",
+    "params",
+    "body",
+    "json"
+  ],
+  "author": "zhiguang.sun",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sunzhiguang/paramRule/issues"
+  },
+  "homepage": "https://github.com/sunzhiguang/paramRule#readme"
+}
