@@ -25,5 +25,8 @@
   "bugs": {
     "url": "https://github.com/sunzhiguang/paramRule/issues"
   },
-  "homepage": "https://github.com/sunzhiguang/paramRule#readme"
+  "homepage": "https://github.com/sunzhiguang/paramRule#readme",
+  "dependencies": {
+    "lodash": "^4.17.11"
+  }
 }
