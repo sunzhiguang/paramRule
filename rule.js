@@ -1,8 +1,4 @@
 /**
- * Created by sunzhiguang on 2018/10/19.
- */
-'use strict'
-/**
  * 参数校验
  * Created by sunzhiguang on 2017/11/16.
  */
